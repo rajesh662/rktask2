@@ -1,0 +1,25 @@
+*
+body{ color: white;
+				}
+				.a{ margin: o auto;
+					margin-top: 150px;
+				    height: 225px;
+					background-color: #35b5cc;
+					}
+				h2{ padding-top: 30px;
+					text-align: center;
+				}
+				.a1{ padding-left: 150px;
+					padding-right: 150px;
+					text-align: center;
+					font-size: 14px;	
+				}
+				.a2{ margin-left: 500px;
+				    border: 2px solid white;
+				    border-radius: 25px ;
+					background-color: #35b5cc; 
+					padding-top: 3px;
+					padding-bottom: 3px;
+					text-align: center;
+					color: white;
+				}	
